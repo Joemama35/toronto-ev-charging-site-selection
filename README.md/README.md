@@ -1,41 +1,41 @@
-# Toronto EV Charging Site Selection
+    # Toronto EV Charging Site Selection
 
-## Overview
+    ## Overview
 
-This GIS project identifies Toronto neighbourhoods that may benefit from additional public EV charging infrastructure. Using ArcGIS Pro and publicly available data, I analyzed existing charging station locations, joined neighbourhood population data, and mapped priority areas for future investment.
+    This GIS project identifies Toronto neighbourhoods that may benefit from additional public EV charging infrastructure. Using ArcGIS Pro and publicly available data, I analyzed existing charging station locations, joined neighbourhood population data, and mapped priority areas for future investment.
 
-## Final Map
+    ## Final Map
 
-Images/Priority_Neighbourhoods_Map.jpeg.jpg
+    ![Priority Map](Images/Priority_Neighbourhoods_Map.jpeg.jpg)
 
-## Data Sources
+    ## Data Sources
 
-* City of Toronto Open Data
-* Statistics Canada (2021 Population)
+    * City of Toronto Open Data
+    * Statistics Canada (2021 Population)
 
-## Methodology
+    ## Methodology
 
-* Imported EV charging stations and neighbourhood boundaries.
-* Performed a Spatial Join to count charging stations within each neighbourhood.
-* Joined population data.
-* Calculated chargers per 10,000 residents.
-* Created a priority map highlighting underserved neighbourhoods.
+    * Imported EV charging stations and neighbourhood boundaries.
+    * Performed a Spatial Join to count charging stations within each neighbourhood.
+    * Joined population data.
+    * Calculated chargers per 10,000 residents.
+    * Created a priority map highlighting underserved neighbourhoods.
 
-## Key Findings
+    ## Key Findings
 
-* Public EV charging stations are concentrated in downtown Toronto.
-* Several neighbourhoods in North York and Scarborough have lower charger availability relative to population.
-* These neighbourhoods were identified as higher-priority areas for future infrastructure investment.
+    * Public EV charging stations are concentrated in downtown Toronto.
+    * Several neighbourhoods in North York and Scarborough have lower charger availability relative to population.
+    * These neighbourhoods were identified as higher-priority areas for future infrastructure investment.
 
-## Tools
+    ## Tools
 
-* ArcGIS Pro
-* Spatial Analysis
-* Spatial & Attribute Joins
-* Field Calculations
-* Cartography
-* Git & GitHub
+    * ArcGIS Pro
+    * Spatial Analysis
+    * Spatial & Attribute Joins
+    * Field Calculations
+    * Cartography
+    * Git & GitHub
 
-## Author
+    ## Author
 
-**Abdullah Khan**
+    **Abdullah Khan**
