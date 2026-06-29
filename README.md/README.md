@@ -6,7 +6,8 @@ This GIS project identifies Toronto neighbourhoods that may benefit from additio
 
 ## Final Map
 
-![Priority Map](Images/Priority_Neighbourhoods_Map.jpeg.jpg)
+<img width="3300" height="2550" alt="Priority_Neighbourhoods_Map jpeg" src="https://github.com/user-attachments/assets/f4f4d2ff-b10c-4da7-b724-0f7b3b2a0bc8" />
+
 
 ## Data Sources
 
